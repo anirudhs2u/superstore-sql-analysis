@@ -60,3 +60,9 @@ In contrast, profitable sub-categories such as Chairs maintain healthy margins e
 - Profitability & Margin Analysis
 - Business Insight Generation
 
+## How to Run This Project
+1. Create a PostgreSQL database
+2. Create the `superstore` table using the schema inferred in `02_schema_overview.sql`
+3. Import the CSV file from the `data/` folder
+4. Execute SQL files in order from `01` to `07`
+
